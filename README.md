@@ -1,6 +1,6 @@
 # Monster Rolodex
 
-<a href="https://sjeremich23.github.io/Monsters-Rolodex/" target="_blank">https://sjeremich23.github.io/Monsters-Rolodex/</a>
+https://sjeremich23.github.io/Monsters-Rolodex/
 
 ![Monsters-Rolodex](/public/Monster-Rolodex.jpg)
 
@@ -26,7 +26,7 @@ This project is just a simple fetch to an API containing users, attached to each
 
 #### Front end deployed to `GitHub Pages`
 
-<a href="https://sjeremich23.github.io/Monsters-Rolodex/" target="_blank">Monsters-Rolodex</a>
+[Monsters-Rolodex](https://sjeremich23.github.io/Monsters-Rolodex/)
 
 # APIs
 
