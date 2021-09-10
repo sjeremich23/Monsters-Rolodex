@@ -1,10 +1,12 @@
 # Monster Rolodex
 
-https://sjeremich23.github.io/Monsters-Rolodex/
+You can find the deployed project at [Monsters Rolodex](https://sjeremich23.github.io/Monsters-Rolodex/)
 
 ## Overview
 
-This project is just a simple fetch to an API containing users, attached to each user is a monster image coming from another API, and using a search bar to automatically display search results based on users input in the search bar as they type.
+> This project is just a simple fetch to an API containing users, attached to each user is a monster image coming from another API, and using a search bar to automatically display search results based on users input in the search bar as they type.
+
+<br>
 
 ![Monsters-Rolodex](/public/images/monster-rolodex.jpg)
 
@@ -34,7 +36,7 @@ This project is just a simple fetch to an API containing users, attached to each
 
 #### Front end deployed to `GitHub Pages`
 
-[Monsters-Rolodex](https://sjeremich23.github.io/Monsters-Rolodex/)
+> [Monsters-Rolodex](https://sjeremich23.github.io/Monsters-Rolodex/)
 
 # APIs
 
