@@ -14,7 +14,7 @@ This project is just a simple fetch to an API containing users, attached to each
 
 |                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
-|                     [<img src="public/images/shane.png" width = "200" />](https://github.com/sjeremich23)                      |
+|           [<img src="https://github.com/favicon.ico" width="15" background="#fff"> ](https://github.com/sjeremich23)           |
 |                    [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sjeremich23)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/shanejeremich/) |
 
