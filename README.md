@@ -10,6 +10,8 @@ his project is just a simple fetch to an API containing users, attached to each 
 
 ![Monsters-Rolodex](/public/images/monster-rolodex.jpg)
 
+<br>
+
 ## Contributors
 
 <br>
