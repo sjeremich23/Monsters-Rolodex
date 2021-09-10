@@ -14,8 +14,6 @@ his project is just a simple fetch to an API containing users, attached to each 
 
 ## Contributors
 
-<br>
-
 |                                        [Shane Jeremich](https://github.com/sjeremich23)                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
 |                     [<img src="public/images/shane.png" width = "200" />](https://github.com/sjeremich23)                      |
