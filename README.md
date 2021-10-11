@@ -26,6 +26,7 @@ his project is just a simple fetch to an API containing users, attached to each 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-v16.11.0.2-blue.svg)
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
 
 ## Key Features
 
