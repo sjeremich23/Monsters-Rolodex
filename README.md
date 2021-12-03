@@ -35,7 +35,7 @@ This project is just a simple fetch to an API containing users, attached to each
 - Searching through users
 - CSS Grid & Flexbox
 
-#### Front end deployed to `GitHub Pages`
+### Front end deployed to `GitHub Pages`
 
 > [Monsters-Rolodex](https://sjeremich23.github.io/Monsters-Rolodex/)
 
