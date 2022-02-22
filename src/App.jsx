@@ -9,7 +9,7 @@ class App extends Component {
 
     this.state = {
       monsters: [],
-      searchField: ""
+      searchField: "",
     };
   }
 
@@ -28,18 +28,15 @@ class App extends Component {
 
   render() {
     const { monsters, searchField } = this.state;
-    const filteredMonsters = monsters.filter(monster =>
-      monster.name.toLowerCase().includes(searchField.toLowerCase())
-    );
+    const filteredMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()));
 
     return (
       <div className="App">
         <h1> Monsters Rolodex </h1>
-        <SearchBox
-          placeholder="Search Monsters"
-          handleChange={this.handleChange}
-        />
-
+        <SearchBox placeholder="Search Monsters" handleChange={this.handleChange} />
+        <div className="text-content">
+          Type in the name of a monster and watch the monsters filter out to the name you typed in.
+        </div>
         <CardList monsters={filteredMonsters} />
       </div>
     );
